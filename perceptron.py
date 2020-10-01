@@ -1,3 +1,8 @@
+
+# Thiago Lourenço C. Bezerra
+# Rede Neurais - Professor Meuser Valença
+# Para teste foi usado os dados da PRIMEIRA ativiade da cadeira (1º PRÁTICA) !!
+
 import random, copy
 
 
