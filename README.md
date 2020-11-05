@@ -39,9 +39,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Podemos considerar este projeto como sendo divido em três parte:
 
-1. Problema do caixeiro viajante,
-2. Algoritmo genético,
-3. Implementação Python.
+1. Processamento dos dados,
+2. Criação do modelo,
+2. Treinamento.
 
 💡 É necessário o entendimento do problema e do algoritmo para que haja o entendimento da implementação.
 
@@ -95,4 +95,4 @@ Feito por Thiago Lourenço
 
 # Observações
 
-Obs.: Lembre-se que uma rede do tipo Perceptron só reconhece problemas linearmente sepaáveis.
+Obs.: Lembre-se que uma rede do tipo Perceptron só reconhece problemas linearmente separáveis.
