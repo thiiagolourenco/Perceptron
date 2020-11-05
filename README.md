@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-**Algoritmo Genético** - Implementar o algoritmo de uma rede neural básica Perceptron.
+**Rde Neural Perceptron** - Implementar o algoritmo de uma rede neural básica Perceptron.
 
 ## 🚀 Como rodar o projeto
 
